@@ -1,7 +1,7 @@
 # Task 2: Fashion-MNIST Classification
 
 **Student:** Ali Asadov 
-**ID:** 2 
+**ID:** S202
 **Seed:** 20240102 
 
 ## Presentation
