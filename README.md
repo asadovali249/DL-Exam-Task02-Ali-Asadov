@@ -2,7 +2,7 @@
 
 **Student:** Ali Asadov 
 **ID:** S202
-**Seed:** 20240102 
+**Seed:** 20240202 
 
 ## Presentation
 [View Presentation Slides](https://docs.google.com/presentation/d/1S1WwYaZn2fi9xcm7OEqnYJtkX_Kwy7es/edit?usp=sharing&ouid=107458438931588601641&rtpof=true&sd=true)
@@ -25,17 +25,17 @@
 - **Learning rate:** 0.001
 - **Batch size:** 64
 - **Optimizer:** Adam
-- **Test accuracy:** 92.02% 
+- **Test accuracy:** 91.87%
 
 ### Version 2
 - **Learning rate:** 0.0001
 - **Batch size:** 64
 - **Optimizer:** Adam
-- **Test accuracy:** 89.90% 
+- **Test accuracy:** 89.89% 
 
 ### Best Result
 - **Best version:** Version 1
-- **Final test accuracy:** 92.02% 
+- **Final test accuracy:**  91.87%
 - **Target accuracy:** 88.00%
 - **Status:** ✓ Achieved
 
