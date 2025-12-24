@@ -40,7 +40,7 @@
 - **Status:** ✓ Achieved
 
 ## Analysis
-- **Best performing class:** Trouser 
+- **Best performing class:** Sneaker
 - **Worst performing class:** Shirt 
 - **Key observations:** 
   1. learning rate 0.001 allowed the model to improve much faster than 0.0001 within the 10-epoch limit.
